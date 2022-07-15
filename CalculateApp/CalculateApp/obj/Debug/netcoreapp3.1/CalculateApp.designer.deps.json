@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MehmetSunbul_CalculateTranslatorService/2.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/CalculateTranslatorService.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MehmetSunbul_CalculateTranslatorService/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DMPAjdIPVp/9ExpN8Q5pZYmu2IDQYJKUwbM5eAsLlYRmTtGWtA0wql4fbnG9qyf/ewIZztgDZG0zkDp3QtGb4Q==",
+      "path": "mehmetsunbul_calculatetranslatorservice/2.0.0",
+      "hashPath": "mehmetsunbul_calculatetranslatorservice.2.0.0.nupkg.sha512"
+    }
+  }
+}

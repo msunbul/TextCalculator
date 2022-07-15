@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MehmetSunbul_CalculateTranslatorService/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/CalculateTranslatorService.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/CalculateTranslatorService.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ],
+        "contentFiles": {
+          "contentFiles/any/netcoreapp3.1/appsettings.Development.json": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netcoreapp3.1/appsettings.json": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MehmetSunbul_CalculateTranslatorService/2.0.0": {
+      "sha512": "DMPAjdIPVp/9ExpN8Q5pZYmu2IDQYJKUwbM5eAsLlYRmTtGWtA0wql4fbnG9qyf/ewIZztgDZG0zkDp3QtGb4Q==",
+      "type": "package",
+      "path": "mehmetsunbul_calculatetranslatorservice/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/appsettings.Development.json",
+        "content/appsettings.json",
+        "contentFiles/any/netcoreapp3.1/appsettings.Development.json",
+        "contentFiles/any/netcoreapp3.1/appsettings.json",
+        "lib/netcoreapp3.1/CalculateTranslatorService.dll",
+        "lib/netcoreapp3.1/CalculateTranslatorService.runtimeconfig.json",
+        "mehmetsunbul_calculatetranslatorservice.2.0.0.nupkg.sha512",
+        "mehmetsunbul_calculatetranslatorservice.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MehmetSunbul_CalculateTranslatorService >= 2.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mehme\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mehme\\source\\repos\\TextCalculator\\CalculateApp\\CalculateApp\\CalculateApp.csproj",
+      "projectName": "CalculateApp",
+      "projectPath": "C:\\Users\\mehme\\source\\repos\\TextCalculator\\CalculateApp\\CalculateApp\\CalculateApp.csproj",
+      "packagesPath": "C:\\Users\\mehme\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mehme\\source\\repos\\TextCalculator\\CalculateApp\\CalculateApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mehme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "MehmetSunbul_CalculateTranslatorService": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

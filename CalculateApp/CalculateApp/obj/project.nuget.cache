@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0XK25MpNkIbn2jIqOtrKHL4IqYzO4M1jbq5EaIxghpXkpPeNYdkeTDgHQiOPE4U0LnNhAlFditGcz5FyYVmPmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehme\\source\\repos\\TextCalculator\\CalculateApp\\CalculateApp\\CalculateApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehme\\.nuget\\packages\\mehmetsunbul_calculatetranslatorservice\\2.0.0\\mehmetsunbul_calculatetranslatorservice.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
